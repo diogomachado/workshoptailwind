@@ -1,0 +1,28 @@
+{
+  "name": "imersaocss.com",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.0.10",
+    "@radix-ui/react-accordion": "^1.1.0",
+    "@radix-ui/react-dialog": "^1.0.2",
+    "framer-motion": "^9.0.1",
+    "micro": "^10.0.1",
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.3.1"
+  }
+}
